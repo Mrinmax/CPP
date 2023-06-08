@@ -4,7 +4,7 @@
 
 <h1>Table of Contents</h1>
 Introduction<br>
-<span>Data Structures</span>
+Data Structures<br>
 Algorithms<br>
 Contributing<br>
 <h1>Introduction</h1>
