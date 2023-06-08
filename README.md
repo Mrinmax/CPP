@@ -1,8 +1,8 @@
 # CPP
-DS Algo with C++
-This repository contains implementations of various data structures and algorithms in different programming languages. It serves as a resource for learning and practicing data structures and algorithms.
+#DS Algo with C++
+<p>This repository contains implementations of various data structures and algorithms in different programming languages. It serves as a resource for learning and practicing data structures and algorithms.</p>
 
-Table of Contents
+#Table of Contents
 Introduction
 Data Structures
 Algorithms
