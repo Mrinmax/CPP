@@ -8,12 +8,12 @@ Data Structures<br>
 Algorithms<br>
 Contributing<br>
 <h1>Introduction</h1>
-Understanding data structures and algorithms is crucial for writing efficient and optimized code. This repository aims to provide implementations of commonly used data structures and algorithms to help developers learn and gain proficiency in this area.
+<p>Understanding data structures and algorithms is crucial for writing efficient and optimized code. This repository aims to provide implementations of commonly used data structures and algorithms to help developers learn and gain proficiency in this area.</p><br>
 
-Each data structure and algorithm implementation includes a detailed explanation of its functionality, time complexity analysis, and example usage.
+<p>Each data structure and algorithm implementation includes a detailed explanation of its functionality, time complexity analysis, and example usage.</p>
 
-Data Structures
-The following data structures are currently implemented in this repository:
+<h1>Data Structures</h1>
+<p>The following data structures are currently implemented in this repository:</p>
 
 Array
 Linked List
