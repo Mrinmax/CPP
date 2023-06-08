@@ -27,9 +27,10 @@ Trie<br>
 AVL Tree<br>
 Red-Black Tree<br>
 B-Tree<br>
-Each data structure is implemented in multiple programming languages, allowing you to compare the implementation style and language-specific features.
 
-Algorithms
+<p>Each data structure is implemented in multiple programming languages, allowing you to compare the implementation style and language-specific features.</p>
+
+<h1>Algorithms</h1>
 The following algorithms are currently implemented in this repository:
 
 Sorting Algorithms
