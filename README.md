@@ -3,9 +3,9 @@
 <p>This repository contains implementations of various data structures and algorithms in different programming languages. It serves as a resource for learning and practicing data structures and algorithms.</p>
 
 <h1>Table of Contents</h1>
-<span>Introduction</span>
+Introduction<br>
 <span>Data Structures</span>
-<span>Algorithms</span>
+Algorithms<br>
 <span>Contributing</span>
 <span>License</span>
 <h1>Introduction</h1>
