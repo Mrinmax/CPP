@@ -8,7 +8,7 @@
 <span>Algorithms</span>
 <span>Contributing</span>
 <span>License</span>
-<span>Introduction</span>
+<h1>Introduction</h1>
 Understanding data structures and algorithms is crucial for writing efficient and optimized code. This repository aims to provide implementations of commonly used data structures and algorithms to help developers learn and gain proficiency in this area.
 
 Each data structure and algorithm implementation includes a detailed explanation of its functionality, time complexity analysis, and example usage.
