@@ -31,9 +31,11 @@ B-Tree<br>
 <p>Each data structure is implemented in multiple programming languages, allowing you to compare the implementation style and language-specific features.</p>
 
 <h1>Algorithms</h1>
-The following algorithms are currently implemented in this repository:
+<p>The following algorithms are currently implemented in this repository:</p><br>
 
-<ul>Sorting Algorithms</ul>
+<ol>
+  <li>Sorting Algorithms</li>
+</ol>
 <ul>
   <li>Bubble Sort</li>
   <li>Selection Sort</li>
