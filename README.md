@@ -1,5 +1,5 @@
 # CPP
-<h1>DS Algo with C++</h1>
+<h1>DS Algo with Different programming Language</h1>
 <p>This repository contains implementations of various data structures and algorithms in different programming languages. It serves as a resource for learning and practicing data structures and algorithms.</p>
 
 <h1>Table of Contents</h1>
