@@ -33,13 +33,15 @@ B-Tree<br>
 <h1>Algorithms</h1>
 The following algorithms are currently implemented in this repository:
 
-<ul>Sorting Algorithms
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Heap Sort
+<ul>Sorting Algorithms</ul>
+<ul>
+  <li>Bubble Sort</li>
+  <li>Selection Sort</li>
+  <li>Insertion Sort</li>
+  <li>Merge Sort</li>
+  <li>Quick Sort</li>
+  <li>Heap Sort</li>
+ </ul>
 Searching Algorithms
 Linear Search
 Binary Search
