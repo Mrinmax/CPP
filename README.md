@@ -55,13 +55,15 @@ Knapsack Problem
 Longest Common Subsequence </ul>
 Each algorithm is also implemented in multiple programming languages, providing you with various perspectives on how to approach and solve problems.
 
-Contributing
+<h1>Contributing</h1>
 Contributions to this repository are welcome! If you would like to contribute a new data structure or algorithm implementation, please follow these guidelines:
 
-Fork the repository.
+<ol>
+  <li>Fork the repository.</li>
 Create a new branch for your feature: git checkout -b feature-name.
 Implement the data structure or algorithm in your preferred programming language.
 Include a detailed explanation of the functionality, time complexity analysis, and example usage in the code comments.
 Make sure all existing tests pass and add new tests if necessary.
 Commit your changes and push to the branch: git push origin feature-name.
 Create a new pull request.
+ </ol>
