@@ -44,19 +44,31 @@ B-Tree<br>
   <li>Quick Sort</li>
   <li>Heap Sort</li>
  </ul>
-Searching Algorithms
-Linear Search
-Binary Search
-Graph Algorithms
-Breadth-First Search (BFS)
-Depth-First Search (DFS)
-Dijkstra's Algorithm
-Prim's Algorithm
-Kruskal's Algorithm
-Dynamic Programming Algorithms
-Fibonacci Sequence
-Knapsack Problem
-Longest Common Subsequence </ul>
+<ol>
+  <li>Searching Algorithms</li>
+</ol>
+<ul>
+  <li>Linear Search</li>
+  <li>Binary Search</li>
+ </ul>
+<ol>
+  <li>Graph Algorithms</li>
+</ol>
+<ul>
+  <li>Breadth-First Search (BFS)</li>
+  <li>Depth-First Search (DFS)</li>
+  <li>Dijkstra's Algorithm</li>
+  <li>Prim's Algorithm</li>
+  <li>Kruskal's Algorithm</li>
+ </ul>
+<ol>
+  <li>Dynamic Programming Algorithms</li>
+ </ol>
+<ul>
+  <li>Fibonacci Sequence</li>
+  <li>Knapsack Problem</li>
+  <li>Longest Common Subsequence</li>
+</ul>
 Each algorithm is also implemented in multiple programming languages, providing you with various perspectives on how to approach and solve problems.
 
 <h1>Contributing</h1>
