@@ -56,7 +56,7 @@ Longest Common Subsequence </ul>
 Each algorithm is also implemented in multiple programming languages, providing you with various perspectives on how to approach and solve problems.
 
 <h1>Contributing</h1>
-Contributions to this repository are welcome! If you would like to contribute a new data structure or algorithm implementation, please follow these guidelines:
+Contributions to this repository are welcome! If you would like to contribute a new data structure or algorithm implementation, please follow these guidelines:<br>
 
 <ol>
   <li>Fork the repository.</li>
