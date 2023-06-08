@@ -33,7 +33,7 @@ B-Tree<br>
 <h1>Algorithms</h1>
 The following algorithms are currently implemented in this repository:
 
-Sorting Algorithms
+<ul>Sorting Algorithms
 Bubble Sort
 Selection Sort
 Insertion Sort
@@ -52,7 +52,7 @@ Kruskal's Algorithm
 Dynamic Programming Algorithms
 Fibonacci Sequence
 Knapsack Problem
-Longest Common Subsequence
+Longest Common Subsequence </ul>
 Each algorithm is also implemented in multiple programming languages, providing you with various perspectives on how to approach and solve problems.
 
 Contributing
