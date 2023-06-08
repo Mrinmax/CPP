@@ -15,18 +15,18 @@ Contributing<br>
 <h1>Data Structures</h1>
 <p>The following data structures are currently implemented in this repository:</p>
 
-Array
-Linked List
-Stack
-Queue
-Hash Table
-Binary Search Tree
-Heap
-Graph
-Trie
-AVL Tree
-Red-Black Tree
-B-Tree
+Array<br>
+Linked List<br>
+Stack<br>
+Queue<br>
+Hash Table<br>
+Binary Search Tree<br>
+Heap<br>
+Graph<br>
+Trie<br>
+AVL Tree<br>
+Red-Black Tree<br>
+B-Tree<br>
 Each data structure is implemented in multiple programming languages, allowing you to compare the implementation style and language-specific features.
 
 Algorithms
